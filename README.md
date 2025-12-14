@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ibcodes-git
 - 👀 I’m interested in coding,travelling and hitting gym.
-- 🌱 I’m currently learning React JS.
 - 💞️ I’m looking for daily progress over perfection.
 - 📫 How to reach me basyalishu123@gmail.com
 
